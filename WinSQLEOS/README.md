@@ -7,4 +7,5 @@
 [http://tinyurl.com/y4edk3tu](http://tinyurl.com/y4edk3tu)
 
 ## Lab 03 Data platform upgrade and migration
-[http://bit.ly/2UT2EYW](http://bit.ly/2UT2EYW)
+[http://bit.ly/2UT2EYW](http://bit.ly/2UT2EYW) 
+#### Activation code = ACTIVATE3219
