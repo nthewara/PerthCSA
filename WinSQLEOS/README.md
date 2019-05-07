@@ -5,3 +5,6 @@
 
 ## Lab 02 Azure SQL Database Managed Instance 
 [http://tinyurl.com/y4edk3tu](http://tinyurl.com/y4edk3tu)
+
+## Lab 03 Data platform upgrade and migration
+[http://bit.ly/2UT2EYW](http://bit.ly/2UT2EYW)
