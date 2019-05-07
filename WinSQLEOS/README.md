@@ -1,7 +1,7 @@
 # Windows Server and SQL Server 2008/R2 end of support planning 
 
 
-## Lab 01 Migrate Your On-premises Infrastructure to Azure Workshop 
+## Lab 01 Migrate Your On-premises Infrastructure to Azure Workshop
 [http://tinyurl.com/y4oljbw2](http://tinyurl.com/y4oljbw2)
 
 
